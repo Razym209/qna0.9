@@ -25,7 +25,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'gon'
 gem 'active_model_serializers', '~> 0.10'
 gem 'oj'
-gem 'sidekiq', '~> 5.1'
+gem 'sidekiq', '~> 6.4'
 gem 'sinatra', require: false
 gem 'whenever', require: false
 
